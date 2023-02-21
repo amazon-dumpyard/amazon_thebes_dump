@@ -1,0 +1,214 @@
+# All blobs are from "full_thebes-user 5.1.1 LVY48F 32.6.2.6_user_626549020 release-keys" and are pinned with sha1sum values
+
+# Audio
+
+# Camera
+
+# Charger
+bin/kpoc_charger|0b2f58625869f1defead2dc9cec7788efab5f154
+lib/libshowlogo.so|b55a1240bf6b7cafe8f4510939119be41d572cf3
+
+# DRM
+vendor/lib/liboemcrypto.so|97f1d4f89de0c8a3f597eff94806d8a1e68c65d7
+
+# DRM-Widevine
+vendor/lib/mediadrm/libdrmclearkeyplugin.so|c4f2794144c42234d12c74697c6a61a74803d62b
+vendor/lib/mediadrm/libmockdrmcryptoplugin.so|f222a2a0a0f94c429e22e68d15327a040d08a787
+vendor/lib/mediadrm/libplayreadydrmplugin.so|ed745261b0fc1ae8cac4a1ba1301d352b7b0586a
+vendor/lib/mediadrm/libwvdrmengine.so|0dacd03286497f1c63f570357902da26911fa187
+
+# Display-Hardware
+vendor/lib/hw/gralloc.mt8135.so|d089651c65f2778752d464623d951a0cee99dd50
+vendor/lib/hw/memtrack.mt8135.so|ffd20d619244d528d97f53979669ed8bba1ef1d7
+
+# Dolby
+vendor/etc/dolby/ds1-0020.xml|52f4f7638fee67e9006d01dd2ae3a8cc6dcb1159
+vendor/etc/dolby/ds1-0021.xml|52f4f7638fee67e9006d01dd2ae3a8cc6dcb1159
+
+# Firmware
+etc/firmware/atmel_mxt_1066.fw|7cf03fdeb5a81c2362d2d0f46deddd5e7cafddbb
+etc/firmware/atmel_mxt_1664.fw|5a4f0995d6c5d83642659d590973bd30cd65ec9c
+etc/firmware/memphis00_mxt_1066.raw|88f74bcd6936a2cc2be4bdaff37e9378553855a9
+etc/firmware/memphis00_mxt_1664.raw|522e657b061ad441df2421bfb00a96a13aa887b3
+etc/firmware/memphis01_mxt_1066.raw|5a9174205eba0048c35b1c1ea853b72f045ea673
+etc/firmware/memphis01_mxt_1664.raw|522e657b061ad441df2421bfb00a96a13aa887b3
+etc/firmware/memphis10_mxt_1066.raw|88f74bcd6936a2cc2be4bdaff37e9378553855a9
+etc/firmware/memphis10_mxt_1664.raw|522e657b061ad441df2421bfb00a96a13aa887b3
+etc/firmware/memphis11_mxt_1066.raw|5a9174205eba0048c35b1c1ea853b72f045ea673
+etc/firmware/memphis11_mxt_1664.raw|522e657b061ad441df2421bfb00a96a13aa887b3
+etc/firmware/memphis_mxt_1066.fw|89a24076d4ac017e3b349cff64dbd9f30e151b73
+etc/firmware/memphis_mxt_1066.raw|6103b39c01301e9097867ac4e2461e14194ebcde
+etc/firmware/memphis_mxt_1664.fw|5a4f0995d6c5d83642659d590973bd30cd65ec9c
+etc/firmware/memphis_mxt_1664.raw|a5bb83e38602a94bb7a751245e354afcf56b5e97
+etc/firmware/mt6628_ant_m1.cfg|22f2f7348daa65bb11e1c534b08e73d0ef1328f9
+etc/firmware/mt6628_patch_e1_hdr.bin|658e7e0861399eb7427cce68287202ae9627d4f8
+etc/firmware/mt6628_patch_e2_0_hdr.bin|466da0cf5c32bfc33c8853fd4514d036e87f3435
+etc/firmware/mt6628_patch_e2_1_hdr.bin|a220097358b8de6844f5b6d115ed4f80dbe000c7
+etc/firmware/mt6630_ant_m1.cfg|95e68b0899ce428a38074e71e519cb8c596d355d
+etc/firmware/mt6630_patch_e3_0_hdr.bin|3ee02fe777cbf4ac65a059b29f39068e50415b95
+etc/firmware/mt6630_patch_e3_1_hdr.bin|f9ca5e67087d6bae82b7d0cb225d90d9f6bcef2c
+etc/firmware/thebes00_mxt_1664.raw|3ce18a0584f276b80896da05ff2cbf2c77202130
+etc/firmware/thebes01_mxt_1664.raw|8ed5b55debaa226ba6380bed1f8bd5933b514b6b
+etc/firmware/thebes10_mxt_1664.raw|3ce18a0584f276b80896da05ff2cbf2c77202130
+etc/firmware/thebes11_mxt_1664.raw|8ed5b55debaa226ba6380bed1f8bd5933b514b6b
+etc/firmware/thebes_mxt_1664.raw|58f7ef6aea544cd524e89b53f008a766763fa787
+etc/firmware/WIFI_RAM_CODE|c3bd0f434227b2b449b879f06760a5592476b001
+etc/firmware/WIFI_RAM_CODE|c3bd0f434227b2b449b879f06760a5592476b001_E6
+etc/firmware/WIFI_RAM_CODE|c3bd0f434227b2b449b879f06760a5592476b001_MT6628
+etc/firmware/WIFI_RAM_CODE|c3bd0f434227b2b449b879f06760a5592476b001_MT6630
+etc/firmware/WMT.cfg|d4e0634b73ec6b95f0e109512b8b15ceb8f86ab3
+vendor/firmware/inv_dmpfirmware.bin|0996677be8a033bbd1938821174485468cc696c5
+vendor/firmware/maxtouch.20.cfg|eeb9294155f0893e861830e82ed56d0bb948739e
+vendor/firmware/maxtouch.20.fw|22f06ec8bd64c86bf9aa67cbffbbc252ba5cdc53
+
+# GPS
+
+# GPS-Hardware
+
+# Graphics
+vendor/lib/egl/libEGL_POWERVR_ROGUE.so|2879c6eb1c501369917d2418d9ecf11430d29020
+vendor/lib/egl/libGLESv1_CM_POWERVR_ROGUE.so|a9813c67d146b96c873ca3c60813b94d393b47bf
+vendor/lib/egl/libGLESv2_POWERVR_ROGUE.so|e1ae058e11aabb29d73b58fbfec2d3b44f519f87
+
+# Listen
+
+# Media
+vendor/lib/libstagefright_soft_ddpdec.so|fbac1276571b7a70fc43e8df33f41c9d9a0e7a12
+
+# Media-Hardware
+
+# Perf
+
+# Postprocessing
+
+# QMI
+
+# Radio
+
+# Sensors
+
+# Time
+
+# WFD
+lib/libwfdscups.so|702d2f3825c2db171647a0dbfe103c73a8a7b68b
+lib/libwfdsjpeg.so|a88de9bf07d0c64651f896e745fdc99ec58c2055
+lib/libwfdsSupport.so|e3cb691017cd723551a6988184e9d563931ddd9c
+
+# WiFi
+
+# Misc
+vendor/app/Ds/arm/Ds.odex|5d202664d10f1d27ec619b5378c89b99f6ba56f9
+-vendor/app/Ds/Ds.apk|64d3f8ef50a432547ec0d12ac0f685c54b21f141
+vendor/bin/pvrdebug|263f3b74d5df7765f0068e79e0f012b9cc793916
+vendor/bin/pvrsrvctl|9ecf7d8dfc011fb79eac4827ef10656c233377e7
+vendor/data/amz.rsa|f5bfa5f48f3962ecc4110b0694da1bc5f0f9ffb3
+vendor/data/images/com.amazon.ags.app.png|e0e863b81d6687a50cf5db04c65b80af3fb3316b
+vendor/data/images/com.amazon.avod.png|3bc7704a5c08ac654f9fbc1cfb69056f0c22b4cd
+vendor/data/images/com.amazon.calculator.png|4977d37f840015c324d086c6127489143ca0c0a2
+vendor/data/images/com.amazon.camera.png|788eeef0b5fc08299405879068fce52b4545678d
+vendor/data/images/com.amazon.cloud9.png|b926aef48c7accbd4d0b895630de3521d63dc51c
+vendor/data/images/com.amazon.csapp.png|23e863e5780fbc2f17ec706c1b9681e9dc669312
+vendor/data/images/com.amazon.dee.app.png|4a288371e686b30eb91f35c2178f81919ebc2c05
+vendor/data/images/com.amazon.edu.dialog.png|1dd1e9e799bf248ce7181dcabdaf48c172e5ab34
+vendor/data/images/com.amazon.geo.client.maps.png|c60e0c22abe1845934c5cf5cafa7d490622d6a24
+vendor/data/images/com.amazon.kindle.kso.png|76112a03fca69dd19b889ccc7ff25405f18b13ae
+vendor/data/images/com.amazon.kindle.personal_video.png|07e3d34c6bda3601ddb313b27619ccee36d9667e
+vendor/data/images/com.amazon.mp3.png|d380ee0f904022095f4cb85ecbf0f485935cb150
+vendor/data/images/com.amazon.mw.png|c02ec0fbcf510d5e2753296f5560f51a04da8660
+vendor/data/images/com.amazon.photos.importer.png|4ca1a3b510b212462bfdb7d1644facf65cd5200a
+vendor/data/images/com.amazon.tahoe_com.amazon.tahoe.ui.activities.ProfilePickerActivity.png|57766f702954b65e5e528a452034898d33bc0a40
+vendor/data/images/com.amazon.tahoe_com.amazon.tahoe.ui.activities.ProfilePickerUkActivity.png|e9cecb6d1f8d5500c1d2c24a3911eeb40a0b85db
+vendor/data/images/com.amazon.venezia.png|cea8ecc83144199d4f591aa3d00b954caeb5d854
+vendor/data/images/com.amazon.weather.png|d15598f2ac3717f1a03e7f43f240966bed12a00d
+vendor/data/images/com.amazon.windowshop.png|be87225e715093ccc6534d0ed70bc49cecd0e8b5
+vendor/data/images/com.amazon.zico.png|2b8e3c712fc53d05c29b075d334085892c2c1e46
+vendor/data/images/com.android.calendar.png|ec364f6e69a878dd83d8efc555300f0a3659f428
+vendor/data/images/com.android.contacts.png|0b4b7d70c20d84e11fdf70b921d370915e9b7bd7
+vendor/data/images/com.android.deskclock.png|2492e4a385c809f1aac6a2d2edadf16009bbc0ac
+vendor/data/images/com.android.email.png|9aaf09b8a0044e8af5eee3c535160cb929d1eec6
+vendor/data/images/com.android.settings.png|b34b77fa2bba91b9baa1b5b62d7c8ef30a185324
+vendor/data/images/com.audible.application.kindle.png|e153fe49502a021ea21a86bb3d91003b6733845a
+vendor/data/images/com.goodreads.kindle.png|04e80e30c6d73ae4497cf7345bc088105ae48ef8
+vendor/data/images/tall_com.amazon.ags.app.png|e0e863b81d6687a50cf5db04c65b80af3fb3316b
+vendor/data/images/tall_com.amazon.avod.png|3bc7704a5c08ac654f9fbc1cfb69056f0c22b4cd
+vendor/data/images/tall_com.amazon.calculator.png|4977d37f840015c324d086c6127489143ca0c0a2
+vendor/data/images/tall_com.amazon.camera.png|788eeef0b5fc08299405879068fce52b4545678d
+vendor/data/images/tall_com.amazon.cloud9.png|3217bfbb82c6ad29b8a11c006c4a5ca475ccfb64
+vendor/data/images/tall_com.amazon.csapp.png|23e863e5780fbc2f17ec706c1b9681e9dc669312
+vendor/data/images/tall_com.amazon.dee.app.png|4a288371e686b30eb91f35c2178f81919ebc2c05
+vendor/data/images/tall_com.amazon.edu.dialog.png|1dd1e9e799bf248ce7181dcabdaf48c172e5ab34
+vendor/data/images/tall_com.amazon.geo.client.maps.png|c60e0c22abe1845934c5cf5cafa7d490622d6a24
+vendor/data/images/tall_com.amazon.kindle.kso.png|76112a03fca69dd19b889ccc7ff25405f18b13ae
+vendor/data/images/tall_com.amazon.kindle.personal_video.png|07e3d34c6bda3601ddb313b27619ccee36d9667e
+vendor/data/images/tall_com.amazon.mp3.png|d380ee0f904022095f4cb85ecbf0f485935cb150
+vendor/data/images/tall_com.amazon.mw.png|c02ec0fbcf510d5e2753296f5560f51a04da8660
+vendor/data/images/tall_com.amazon.photos.importer.png|4ca1a3b510b212462bfdb7d1644facf65cd5200a
+vendor/data/images/tall_com.amazon.tahoe_com.amazon.tahoe.ui.activities.ProfilePickerActivity.png|57766f702954b65e5e528a452034898d33bc0a40
+vendor/data/images/tall_com.amazon.tahoe_com.amazon.tahoe.ui.activities.ProfilePickerUkActivity.png|e9cecb6d1f8d5500c1d2c24a3911eeb40a0b85db
+vendor/data/images/tall_com.amazon.venezia.png|cea8ecc83144199d4f591aa3d00b954caeb5d854
+vendor/data/images/tall_com.amazon.weather.png|d15598f2ac3717f1a03e7f43f240966bed12a00d
+vendor/data/images/tall_com.amazon.windowshop.png|be87225e715093ccc6534d0ed70bc49cecd0e8b5
+vendor/data/images/tall_com.amazon.zico.png|2b8e3c712fc53d05c29b075d334085892c2c1e46
+vendor/data/images/tall_com.android.calendar.png|ec364f6e69a878dd83d8efc555300f0a3659f428
+vendor/data/images/tall_com.android.contacts.png|0b4b7d70c20d84e11fdf70b921d370915e9b7bd7
+vendor/data/images/tall_com.android.deskclock.png|2492e4a385c809f1aac6a2d2edadf16009bbc0ac
+vendor/data/images/tall_com.android.email.png|9aaf09b8a0044e8af5eee3c535160cb929d1eec6
+vendor/data/images/tall_com.android.settings.png|b34b77fa2bba91b9baa1b5b62d7c8ef30a185324
+vendor/data/images/tall_com.audible.application.kindle.png|e153fe49502a021ea21a86bb3d91003b6733845a
+vendor/data/images/tall_com.goodreads.kindle.png|04e80e30c6d73ae4497cf7345bc088105ae48ef8
+vendor/data/tl1.rsa|6aaf0025fcd748b0bfee3cb26eba65ed1fa5ea10
+vendor/data/trapz_scripts.tar.gz|d8870790cbf3590e6be43400b369109303ed7280
+vendor/data/trapz_xml/1.txt|e14fdf952e909a8d489512182ab2435a3e7b687e
+vendor/data/trapz_xml/2.txt|7e081cc7b5e45c15191f1c31ca485ece5bbb8986
+vendor/data/trapz_xml/3.txt|6f4d0688a8cee717398b5c778cf43a09127856be
+vendor/data/trapz_xml/4.txt|972b53ccbede05635bec999933cdeeec7811195d
+vendor/data/ttp/facebook-orca.rsa|e0358fec9a72ecb2ebae0b77577fd21a89123dfa
+vendor/data/ttp/qq.rsa|b90a8d638b3756951e9057a7f1163e2097e85e46
+vendor/data/ttp/skype-phoenix.rsa|24f8ef33d6c02c566f2ad198342354744a6f1b6f
+vendor/data/ttp/skype-raider.rsa|56484accdf9461b83c3886c195ce9857215f6e38
+vendor/data/ttp/tecla-2013.rsa|4c63a22940efd31c43bb44393d34e00be7911405
+vendor/data/ttp/tecla-2014.rsa|e0812332fb4838ebbdd813843049b0f38343b020
+vendor/data/ttp/viber-voip.rsa|21e52e1bdf7e0740e39f6cdac38df6b373bb13fd
+vendor/lib/drm/libdrmwvmplugin.so|28a079cc0110e06f146a41f78df730275edf45ef
+vendor/lib/libdlbdapstorage.so|8f620f855715538e9b0d9dc2a2aae8910bd28e57
+vendor/lib/libglslcompiler.so|e125044b92156b620603ade7c4bcf3d325438c9e
+vendor/lib/libIMGegl.so|7b6ce2bdab7a6f2cfbd78765dded32fe0d4c74c9
+vendor/lib/libpvrANDROID_WSEGL.so|264bf341a645aeae790e28bca3247bb4941ccf38
+vendor/lib/libPVRScopeServices.so|6b8257f5b385f57fc2d083a4ed6b773c5f9b2015
+vendor/lib/libsrv_init.so|c9467be04cd4c19bc1b5bad0df8bb1888c17c1b5
+vendor/lib/libsrv_um.so|c5f73f38cf16d9e546fa68b199b74c6549235099
+vendor/lib/libusc.so|7e884c77fbeb10ad9db68662018762d1eb19353c
+vendor/lib/libwvdrm_L1.so|1f7e43bb63c0e6d830b690ec4bcb6a864f87268b
+vendor/lib/libwvm.so|cf2b9aa11d610843411166ddcf4cad10047e4673
+vendor/lib/libWVStreamControlAPI_L1.so|0089565d01e013346a862268f2eadd3f3566d965
+vendor/lib/soundfx/libswdap.so|e6c3cfafd62f6e715d9bfd58df3e21bb49ad5e03
+vendor/smartvolume/memphis/anlg_dock_headset.csv|094588949ca37fc2e3ff8b8fb2f0722f32a29abb
+vendor/smartvolume/memphis/aux_digital.csv|094588949ca37fc2e3ff8b8fb2f0722f32a29abb
+vendor/smartvolume/memphis/bt_a2dp.csv|38c5c4efcd2897efc2e4c11468cbe0ec554d4244
+vendor/smartvolume/memphis/bt_a2dp_headphones.csv|38c5c4efcd2897efc2e4c11468cbe0ec554d4244
+vendor/smartvolume/memphis/bt_a2dp_speaker.csv|38c5c4efcd2897efc2e4c11468cbe0ec554d4244
+vendor/smartvolume/memphis/bt_sco.csv|0b3a56a79b24c712586ba6894457504a8043e808
+vendor/smartvolume/memphis/bt_sco_carkit.csv|0b3a56a79b24c712586ba6894457504a8043e808
+vendor/smartvolume/memphis/bt_sco_headset.csv|0b3a56a79b24c712586ba6894457504a8043e808
+vendor/smartvolume/memphis/default.csv|0b3a56a79b24c712586ba6894457504a8043e808
+vendor/smartvolume/memphis/dgtl_dock_headeset.csv|094588949ca37fc2e3ff8b8fb2f0722f32a29abb
+vendor/smartvolume/memphis/earpiece.csv|0b3a56a79b24c712586ba6894457504a8043e808
+vendor/smartvolume/memphis/fm_radio_tx.csv|e63a96376ad3ab62dc9cdfd0e0e4837b11ef6673
+vendor/smartvolume/memphis/speaker.csv|0b3a56a79b24c712586ba6894457504a8043e808
+vendor/smartvolume/memphis/wired_headphone.csv|094588949ca37fc2e3ff8b8fb2f0722f32a29abb
+vendor/smartvolume/memphis/wired_headset.csv|094588949ca37fc2e3ff8b8fb2f0722f32a29abb
+vendor/smartvolume/thebes/anlg_dock_headset.csv|094588949ca37fc2e3ff8b8fb2f0722f32a29abb
+vendor/smartvolume/thebes/aux_digital.csv|094588949ca37fc2e3ff8b8fb2f0722f32a29abb
+vendor/smartvolume/thebes/bt_a2dp.csv|38c5c4efcd2897efc2e4c11468cbe0ec554d4244
+vendor/smartvolume/thebes/bt_a2dp_headphones.csv|38c5c4efcd2897efc2e4c11468cbe0ec554d4244
+vendor/smartvolume/thebes/bt_a2dp_speaker.csv|38c5c4efcd2897efc2e4c11468cbe0ec554d4244
+vendor/smartvolume/thebes/bt_sco.csv|0b3a56a79b24c712586ba6894457504a8043e808
+vendor/smartvolume/thebes/bt_sco_carkit.csv|0b3a56a79b24c712586ba6894457504a8043e808
+vendor/smartvolume/thebes/bt_sco_headset.csv|0b3a56a79b24c712586ba6894457504a8043e808
+vendor/smartvolume/thebes/default.csv|0b3a56a79b24c712586ba6894457504a8043e808
+vendor/smartvolume/thebes/dgtl_dock_headeset.csv|094588949ca37fc2e3ff8b8fb2f0722f32a29abb
+vendor/smartvolume/thebes/earpiece.csv|0b3a56a79b24c712586ba6894457504a8043e808
+vendor/smartvolume/thebes/fm_radio_tx.csv|e63a96376ad3ab62dc9cdfd0e0e4837b11ef6673
+vendor/smartvolume/thebes/speaker.csv|0b3a56a79b24c712586ba6894457504a8043e808
+vendor/smartvolume/thebes/wired_headphone.csv|094588949ca37fc2e3ff8b8fb2f0722f32a29abb
+vendor/smartvolume/thebes/wired_headset.csv|094588949ca37fc2e3ff8b8fb2f0722f32a29abb

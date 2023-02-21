@@ -1,0 +1,214 @@
+# All blobs from full_thebes-user 5.1.1 LVY48F 32.6.2.6_user_626549020 release-keys, unless pinned
+
+# Audio
+
+# Camera
+
+# Charger
+bin/kpoc_charger
+lib/libshowlogo.so
+
+# DRM
+vendor/lib/liboemcrypto.so
+
+# DRM-Widevine
+vendor/lib/mediadrm/libdrmclearkeyplugin.so
+vendor/lib/mediadrm/libmockdrmcryptoplugin.so
+vendor/lib/mediadrm/libplayreadydrmplugin.so
+vendor/lib/mediadrm/libwvdrmengine.so
+
+# Display-Hardware
+vendor/lib/hw/gralloc.mt8135.so
+vendor/lib/hw/memtrack.mt8135.so
+
+# Dolby
+vendor/etc/dolby/ds1-0020.xml
+vendor/etc/dolby/ds1-0021.xml
+
+# Firmware
+etc/firmware/atmel_mxt_1066.fw
+etc/firmware/atmel_mxt_1664.fw
+etc/firmware/memphis00_mxt_1066.raw
+etc/firmware/memphis00_mxt_1664.raw
+etc/firmware/memphis01_mxt_1066.raw
+etc/firmware/memphis01_mxt_1664.raw
+etc/firmware/memphis10_mxt_1066.raw
+etc/firmware/memphis10_mxt_1664.raw
+etc/firmware/memphis11_mxt_1066.raw
+etc/firmware/memphis11_mxt_1664.raw
+etc/firmware/memphis_mxt_1066.fw
+etc/firmware/memphis_mxt_1066.raw
+etc/firmware/memphis_mxt_1664.fw
+etc/firmware/memphis_mxt_1664.raw
+etc/firmware/mt6628_ant_m1.cfg
+etc/firmware/mt6628_patch_e1_hdr.bin
+etc/firmware/mt6628_patch_e2_0_hdr.bin
+etc/firmware/mt6628_patch_e2_1_hdr.bin
+etc/firmware/mt6630_ant_m1.cfg
+etc/firmware/mt6630_patch_e3_0_hdr.bin
+etc/firmware/mt6630_patch_e3_1_hdr.bin
+etc/firmware/thebes00_mxt_1664.raw
+etc/firmware/thebes01_mxt_1664.raw
+etc/firmware/thebes10_mxt_1664.raw
+etc/firmware/thebes11_mxt_1664.raw
+etc/firmware/thebes_mxt_1664.raw
+etc/firmware/WIFI_RAM_CODE
+etc/firmware/WIFI_RAM_CODE_E6
+etc/firmware/WIFI_RAM_CODE_MT6628
+etc/firmware/WIFI_RAM_CODE_MT6630
+etc/firmware/WMT.cfg
+vendor/firmware/inv_dmpfirmware.bin
+vendor/firmware/maxtouch.20.cfg
+vendor/firmware/maxtouch.20.fw
+
+# GPS
+
+# GPS-Hardware
+
+# Graphics
+vendor/lib/egl/libEGL_POWERVR_ROGUE.so
+vendor/lib/egl/libGLESv1_CM_POWERVR_ROGUE.so
+vendor/lib/egl/libGLESv2_POWERVR_ROGUE.so
+
+# Listen
+
+# Media
+vendor/lib/libstagefright_soft_ddpdec.so
+
+# Media-Hardware
+
+# Perf
+
+# Postprocessing
+
+# QMI
+
+# Radio
+
+# Sensors
+
+# Time
+
+# WFD
+lib/libwfdscups.so
+lib/libwfdsjpeg.so
+lib/libwfdsSupport.so
+
+# WiFi
+
+# Misc
+vendor/app/Ds/arm/Ds.odex
+-vendor/app/Ds/Ds.apk
+vendor/bin/pvrdebug
+vendor/bin/pvrsrvctl
+vendor/data/amz.rsa
+vendor/data/images/com.amazon.ags.app.png
+vendor/data/images/com.amazon.avod.png
+vendor/data/images/com.amazon.calculator.png
+vendor/data/images/com.amazon.camera.png
+vendor/data/images/com.amazon.cloud9.png
+vendor/data/images/com.amazon.csapp.png
+vendor/data/images/com.amazon.dee.app.png
+vendor/data/images/com.amazon.edu.dialog.png
+vendor/data/images/com.amazon.geo.client.maps.png
+vendor/data/images/com.amazon.kindle.kso.png
+vendor/data/images/com.amazon.kindle.personal_video.png
+vendor/data/images/com.amazon.mp3.png
+vendor/data/images/com.amazon.mw.png
+vendor/data/images/com.amazon.photos.importer.png
+vendor/data/images/com.amazon.tahoe_com.amazon.tahoe.ui.activities.ProfilePickerActivity.png
+vendor/data/images/com.amazon.tahoe_com.amazon.tahoe.ui.activities.ProfilePickerUkActivity.png
+vendor/data/images/com.amazon.venezia.png
+vendor/data/images/com.amazon.weather.png
+vendor/data/images/com.amazon.windowshop.png
+vendor/data/images/com.amazon.zico.png
+vendor/data/images/com.android.calendar.png
+vendor/data/images/com.android.contacts.png
+vendor/data/images/com.android.deskclock.png
+vendor/data/images/com.android.email.png
+vendor/data/images/com.android.settings.png
+vendor/data/images/com.audible.application.kindle.png
+vendor/data/images/com.goodreads.kindle.png
+vendor/data/images/tall_com.amazon.ags.app.png
+vendor/data/images/tall_com.amazon.avod.png
+vendor/data/images/tall_com.amazon.calculator.png
+vendor/data/images/tall_com.amazon.camera.png
+vendor/data/images/tall_com.amazon.cloud9.png
+vendor/data/images/tall_com.amazon.csapp.png
+vendor/data/images/tall_com.amazon.dee.app.png
+vendor/data/images/tall_com.amazon.edu.dialog.png
+vendor/data/images/tall_com.amazon.geo.client.maps.png
+vendor/data/images/tall_com.amazon.kindle.kso.png
+vendor/data/images/tall_com.amazon.kindle.personal_video.png
+vendor/data/images/tall_com.amazon.mp3.png
+vendor/data/images/tall_com.amazon.mw.png
+vendor/data/images/tall_com.amazon.photos.importer.png
+vendor/data/images/tall_com.amazon.tahoe_com.amazon.tahoe.ui.activities.ProfilePickerActivity.png
+vendor/data/images/tall_com.amazon.tahoe_com.amazon.tahoe.ui.activities.ProfilePickerUkActivity.png
+vendor/data/images/tall_com.amazon.venezia.png
+vendor/data/images/tall_com.amazon.weather.png
+vendor/data/images/tall_com.amazon.windowshop.png
+vendor/data/images/tall_com.amazon.zico.png
+vendor/data/images/tall_com.android.calendar.png
+vendor/data/images/tall_com.android.contacts.png
+vendor/data/images/tall_com.android.deskclock.png
+vendor/data/images/tall_com.android.email.png
+vendor/data/images/tall_com.android.settings.png
+vendor/data/images/tall_com.audible.application.kindle.png
+vendor/data/images/tall_com.goodreads.kindle.png
+vendor/data/tl1.rsa
+vendor/data/trapz_scripts.tar.gz
+vendor/data/trapz_xml/1.txt
+vendor/data/trapz_xml/2.txt
+vendor/data/trapz_xml/3.txt
+vendor/data/trapz_xml/4.txt
+vendor/data/ttp/facebook-orca.rsa
+vendor/data/ttp/qq.rsa
+vendor/data/ttp/skype-phoenix.rsa
+vendor/data/ttp/skype-raider.rsa
+vendor/data/ttp/tecla-2013.rsa
+vendor/data/ttp/tecla-2014.rsa
+vendor/data/ttp/viber-voip.rsa
+vendor/lib/drm/libdrmwvmplugin.so
+vendor/lib/libdlbdapstorage.so
+vendor/lib/libglslcompiler.so
+vendor/lib/libIMGegl.so
+vendor/lib/libpvrANDROID_WSEGL.so
+vendor/lib/libPVRScopeServices.so
+vendor/lib/libsrv_init.so
+vendor/lib/libsrv_um.so
+vendor/lib/libusc.so
+vendor/lib/libwvdrm_L1.so
+vendor/lib/libwvm.so
+vendor/lib/libWVStreamControlAPI_L1.so
+vendor/lib/soundfx/libswdap.so
+vendor/smartvolume/memphis/anlg_dock_headset.csv
+vendor/smartvolume/memphis/aux_digital.csv
+vendor/smartvolume/memphis/bt_a2dp.csv
+vendor/smartvolume/memphis/bt_a2dp_headphones.csv
+vendor/smartvolume/memphis/bt_a2dp_speaker.csv
+vendor/smartvolume/memphis/bt_sco.csv
+vendor/smartvolume/memphis/bt_sco_carkit.csv
+vendor/smartvolume/memphis/bt_sco_headset.csv
+vendor/smartvolume/memphis/default.csv
+vendor/smartvolume/memphis/dgtl_dock_headeset.csv
+vendor/smartvolume/memphis/earpiece.csv
+vendor/smartvolume/memphis/fm_radio_tx.csv
+vendor/smartvolume/memphis/speaker.csv
+vendor/smartvolume/memphis/wired_headphone.csv
+vendor/smartvolume/memphis/wired_headset.csv
+vendor/smartvolume/thebes/anlg_dock_headset.csv
+vendor/smartvolume/thebes/aux_digital.csv
+vendor/smartvolume/thebes/bt_a2dp.csv
+vendor/smartvolume/thebes/bt_a2dp_headphones.csv
+vendor/smartvolume/thebes/bt_a2dp_speaker.csv
+vendor/smartvolume/thebes/bt_sco.csv
+vendor/smartvolume/thebes/bt_sco_carkit.csv
+vendor/smartvolume/thebes/bt_sco_headset.csv
+vendor/smartvolume/thebes/default.csv
+vendor/smartvolume/thebes/dgtl_dock_headeset.csv
+vendor/smartvolume/thebes/earpiece.csv
+vendor/smartvolume/thebes/fm_radio_tx.csv
+vendor/smartvolume/thebes/speaker.csv
+vendor/smartvolume/thebes/wired_headphone.csv
+vendor/smartvolume/thebes/wired_headset.csv
